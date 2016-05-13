@@ -12,6 +12,12 @@ http://git.oschina.net/sanluan/PublicCMS/repository/archive/master
 
 https://github.com/sanluan/PublicCMS/archive/master.zip
 
+JDK1.7 64Bit 7u80
+
+http://www.cr173.com/soft/55503.html
+
+http://www.jb51.net/softs/75615.html
+
 Tomcat 7.0.69
 
 http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.69/bin/apache-tomcat-7.0.69.zip
