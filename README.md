@@ -36,7 +36,10 @@
 
 ##鸣谢
 
-感谢@日照-ゞkong.“ @隔壁邻居王先生 @暗亮之间 长期关注及使用Public CMS，并为Public CMS贡献文档
+
+感谢以下用户长期关注及使用Public CMS，并为Public CMS贡献文档(以文档提交顺序排名)
+
+@日照-ゞkong.“ @暗亮之间 @隔壁邻居王先生 @Be OK @寂静的街道
 
 ##Public CMS及第三方程序下载
 
@@ -75,3 +78,7 @@ Nginx 1.10.0
 windows: http://nginx.org/download/nginx-1.10.0.zip
 
 linux: http://nginx.org/download/nginx-1.10.0.tar.gz
+
+MySQL
+
+http://dev.mysql.com/downloads/mysql/
